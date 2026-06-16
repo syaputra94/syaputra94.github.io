@@ -1,13 +1,4 @@
-# Portfolio Oji Syaputra
-
-Website portfolio pribadi bertema teknologi untuk GitHub Pages.
-
-## Update Terbaru
-
-- Foto profil sudah ditambahkan.
-- Pengalaman magang sebagai Teknisi Jaringan dan Dukungan IT di Matcom Computer sudah ditambahkan.
-- Area portfolio diperbarui dengan fokus Network, IT Support, Admin Stock, dan Graphic Design.
-
+# Portofolio Oji Syaputra
 ## Isi File
 
 - `index.html` — struktur halaman website
@@ -33,5 +24,5 @@ Website portfolio pribadi bertema teknologi untuk GitHub Pages.
 
 5. Klik **Save**.
 
-6. Tunggu beberapa menit, lalu akses:
+6. Tunggu beberapa menit, akses di Link :
    `https://syaputra94.github.io`
